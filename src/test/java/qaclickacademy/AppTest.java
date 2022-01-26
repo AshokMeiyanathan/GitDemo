@@ -20,6 +20,8 @@ public class AppTest
         super( testName );
         System.out.println("First");
         System.out.println("Second");
+        
+        System.out.println("Third");
     }
 
     /**
